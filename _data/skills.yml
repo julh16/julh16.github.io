@@ -1,22 +1,18 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
-
 - skill: Devops
-  description: Content and marketing strategy,
+  description: Docker, CI/CD in Azure Environment
 
 # Communications strategy
 - skill: Backend development
-  description: Content and marketing strategy,
+  description: Node.js, Express.js, MongoDB, SQL
 
   # Communications strategy
 - skill: Frontend development
-  description: Content and marketing strategy
+  description: React, Redux, Figma
 
     # Communications strategy
 - skill: Mobile development
-  description: Content and marketing strategy,
+  description: Flutter, Riverpod
 
 # Digital content development and creation
 - skill: Languages

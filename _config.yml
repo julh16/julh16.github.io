@@ -21,9 +21,9 @@ resume_contact_telephone:       "+436605633618"
 resume_contact_address:         "Hafnerriegel 29, 8010 Graz"
 
 resume_header_contact_info:     "Hafnerriegel 29, 8010 Graz • +436605633618 • j.holzegger@gmail.com"
-display_header_contact_info:    "false"
+display_header_contact_info:    "true"
 
-resume_header_intro: "<p>I am a software engineer based in Graz with > 6 years of experience in realizing software projects.</p>"
+resume_header_intro: "<p>I am a Software Engineer based in Graz with over 6 years of experience in realizing software projects. Experienced in setting up CI/CD processes, building mobile apps with Flutter, and developing backends using Node.js. Knowledgeable in software design and have led small development project teams. Focused on creating scalable and maintainable solutions.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -50,7 +50,7 @@ resume_social_links:
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:            "https://linkedin.com/in/julian-holzegger-a476a01a1"
-  resume_email_url:               ""
+  #resume_email_url:               ""
   # resume_instagram_url:         "insert your Instagram URL here"
   # resume_website_url:           "http://joelglovier.com"
   # resume_medium_url:            "https://medium.com/@jglovier"
