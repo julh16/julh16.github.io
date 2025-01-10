@@ -1,18 +1,6 @@
 # Skills
-- skill: Devops
-  description: Docker, CI/CD in Azure Environment
-
-# Communications strategy
-- skill: Backend development
-  description: Node.js, Express.js, MongoDB, SQL
-
-  # Communications strategy
-- skill: Frontend development
-  description: React, Redux, Figma
-
-    # Communications strategy
-- skill: Mobile development
-  description: Flutter, Riverpod
+- skill: Development
+  description: Flutter, Docker, CI/CD in Azure (DevOps), Node.js, MongoDB, SQL, React
 
 # Digital content development and creation
 - skill: Languages
