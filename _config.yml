@@ -23,7 +23,7 @@ resume_contact_address:         "Hafnerriegel 29, 8010 Graz"
 resume_header_contact_info:     "Hafnerriegel 29, 8010 Graz • +436605633618 • j.holzegger@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>I am a Software Engineer based in Graz with over 6 years of experience in realizing software projects. Experienced in setting up CI/CD processes, building mobile apps with Flutter, and developing backends using Node.js. Knowledgeable in software design and have led small development project teams. Focused on creating scalable and maintainable solutions.</p>"
+resume_header_intro: "<p>I am a Software Engineer based in Graz with over 6 years of experience in realizing software projects, dedicated to continous learning. Experienced in implementing CI/CD processes, building mobile apps and developing backends. Knowledgeable in software design and have led small development project teams. Focused on creating scalable and maintainable solutions.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
